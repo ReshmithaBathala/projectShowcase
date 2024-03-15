@@ -1,0 +1,45 @@
+.select-container {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.select-input {
+  height: 40px;
+  width: 30%;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+}
+.project-list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.failure-view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-view-image {
+  height: 200px;
+  width: 200px;
+}
+.retry-button {
+  height: 40px;
+  width: 90px;
+  outline: none;
+  border-radius: 8px;
+  border: none;
+  background-color: #328af2;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Roboto';
+}

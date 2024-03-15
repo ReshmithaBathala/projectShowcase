@@ -1,0 +1,20 @@
+.project-image {
+  height: 70%;
+  width: 100%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.project-list-item {
+  height: 300px;
+  border-radius: 10px;
+  width: 200px;
+  box-shadow: #cbd5e1 1px 1px 1px 1px;
+  margin: 10px;
+}
+.project-name {
+  font-size: 20px;
+  font-weight: bold;
+  color: #475569;
+  font-family: 'Roboto';
+  text-align: center;
+}
